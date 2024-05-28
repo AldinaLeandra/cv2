@@ -44,17 +44,17 @@ technicalSkills:
    - name: Ninjutsu
      level: 90
    - name: Kusarigama
-     level: 80
+     level: 20
   frontend:
    - name: Cooking Skills
-     level: 80
+     level: 10
    - name: Pranks
      level: 90
   other:
    - name: Shadow Puppet Skill
-     level: 90
-   - name: Teaching
      level: 100
+   - name: Teaching
+     level: 50
 
 sideProjects:
   - name: jekyll-clean-dark
