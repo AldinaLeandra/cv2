@@ -3,14 +3,14 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: Leandra
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
+  profession: programadora
+  location: Maputo
+  citizenship: Mozambique
+  email: lea@gmail.com
+  site: http://leaa.com
+  phone: +258 84 8989898
   github: /streetturtle
   stackoverflow: /streetturtle
   linkedin: /streetturtle
